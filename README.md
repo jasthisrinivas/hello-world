@@ -1,2 +1,1 @@
-# hello-world
-my first rep in github
+first commit 
